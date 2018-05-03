@@ -1,0 +1,65 @@
+<!doctype html>
+<html>
+	<head>
+		<title>my webpage</title>
+	</head>
+	
+	<body>
+		<p>
+			<h1>This is a big header</h1>
+			<h2>This is a quite big header</h2>
+			<h3>This is an h3 header</h3>
+			<h4>this is an h4 header</h4>
+			<h5>this is an h5 header</h5>
+			<h6>this is an h6 header</h6>
+		</p>
+		
+		<p>
+			here is some <strong>bold</strong>text
+			<br>here is some <em>italic</em> text
+			<br>here is some <ins>underlined</ins> text
+			<br>here is some <sup>superscript</sup> text
+			<br>here is some <sub>subscript</sub> text
+			<br>here is some <del>struckout</del> text
+			<br>here is some text <br>with a line break
+		</p>
+				
+		<ul>
+			<li><strong>Amber</strong></li>
+			<li><em>Patrick</em></li>
+			<li><sup>Alex</sup></li>
+		</ul>
+		
+		<ol start="10">
+			<li>one</li>
+			<li>two</li>
+		</ol>
+				
+		<ol reversed>
+			<li>1</li>
+			<li>2</li>
+		</ol>
+		
+		<ol type="A">
+			<li>blah</li>
+			<li>blah</li>
+		</ol>
+		
+		<ol type="a">
+			<li>blah</li>
+			<li>blah</li>
+		</ol>
+		
+		<ol type="I">
+			<li>blah</li>
+			<li>blah</li>
+		</ol>
+		
+		<ol type="i">
+			<li>blah</li>
+			<li>blah</li>
+		</ol>
+		
+		<hr>
+	</body>
+</html>
